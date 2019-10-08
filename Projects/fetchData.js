@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fetch('https://pokeapi.co/api/v2/pokemon/5')
 .then( response => response.json() )
 .then( 
@@ -12,3 +13,5 @@ fetch('https://pokeapi.co/api/v2/pokemon/5')
         selectorName.innerHTML = `<h3>Name: ${type.name} </h3> `
     }
 );
+=======
+>>>>>>> master
